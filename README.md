@@ -4,6 +4,4 @@
 <!-- knock code pictures 敲代码的图片 -->
   <img src="https://cdn.jsdelivr.net/gh/z910130233/z910130233/assets/images/coding.gif" /><br>
 
-<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=z910130233" /> </div>
-
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=z910130233" /> </div>
