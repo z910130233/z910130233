@@ -5,4 +5,4 @@
 
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=z910130233&theme=xcode" /> </div>
 
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=z910130233" /> </div>
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=z910130233" /> </div>
